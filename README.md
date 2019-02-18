@@ -1,12 +1,12 @@
 # VideoLiterature
 Literature of video streaming research published in major venues such as Sigcomm, NSDI, Mobicom, Mobisys, Infocom
 
-#Papers
+# Papers
 
-##Video Streaming
+## Video Streaming
 
-##Video Conferencing
+## Video Conferencing
 
-##Video Analytics
+## Video Analytics
 
-##360 Degree Video
+## 360 Degree Video
