@@ -1,5 +1,5 @@
 # VideoLiterature
-Literature of video streaming research published in major venues such as Sigcomm, NSDI, Mobicom, Mobisys, Infocom
+Literature of video streaming research published in major venues such as Sigcomm, NSDI, Mobicom, Mobisys, IMC, CoNEXT, Infocom, MM, MMSys, OSDI, SOSP etc. 
 
 ## Video Streaming
 * [Neural Adaptive Content-aware Internet Video Delivery](https://www.usenix.org/system/files/osdi18-yeo.pdf) [OSDI'18]
@@ -15,8 +15,9 @@ Literature of video streaming research published in major venues such as Sigcomm
 ## 360 Degree Video
 * [Flare: Practical Viewport-Adaptive 360-Degree Video Streaming for Mobile Devices](https://www-users.cs.umn.edu/~fengqian/paper/flare_mobicom18.pdf) [Mobicom'18]
 * [Rubiks: Practical 360-Degree Streaming for Smartphones](http://www.cs.utexas.edu/~jianhe/rubiks_mobisys.pdf) [Mobisys'18]
-* [A Measurement Study of Oculus 360 Degree Video Streaming (http://www.greenorbs.org/people/lzh/papers/[MMSys'17]%20360%20Video.pdf) [MMSys'17]
+* [A Measurement Study of Oculus 360 Degree Video Streaming](http://www.greenorbs.org/people/lzh/papers/[MMSys'17]%20360%20Video.pdf) [MMSys'17]
 
 ## Video Classification
 
 ## VR/AR
+* [Furion: Engineering High-Quality Immersive Virtual Reality on Today’s Mobile Devices](http://www.yongcui.org/lunwen/Furion.pdf) [Mobicom'17]
