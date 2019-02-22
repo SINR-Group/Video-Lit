@@ -1,13 +1,15 @@
 # VideoLiterature
-Literature of video streaming research published in major venues such as Sigcomm, NSDI, Mobicom, Mobisys, IMC, CoNEXT, Infocom, MM, MMSys, OSDI, SOSP etc. 
+Literature of video streaming research published in major venues such as Sigcomm, NSDI, Mobicom, Mobisys, IMC, CoNEXT, INFOCOM, MM, MMSys, OSDI, SOSP etc. 
 
 ## Video Streaming
 * [Neural Adaptive Content-aware Internet Video Delivery](https://www.usenix.org/system/files/osdi18-yeo.pdf) [OSDI'18]
 * [ABR Streaming of VBR-encoded Videos: Characterization, Challenges, and Solutions](https://www-users.cs.umn.edu/~fengqian/paper/vbr_conext18.pdf) [CoNEXT'18]
 * [Oboe: Auto-tuning Video ABR Algorithms to Network Conditions](https://engineering.purdue.edu/~isl/papers/sigcomm18-final128.pdf) [Sigcomm'18]
 * [Neural Adaptive Video Streaming with Pensieve](https://people.csail.mit.edu/hongzi/content/publications/Pensieve-Sigcomm17.pdf) [Sigcomm'17]
-* [Pytheas: Enabling Data-Driven Quality of Experience Optimization Using Group-Based Exploration-Exploitation](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-jiang_0.pdf) [NSDI'17]
+* [Pytheas: Enabling Data-Driven QoE Optimization Using Group-Based Exploration-Exploitation](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-jiang_0.pdf) [NSDI'17]
 * [MP-DASH: Adaptive Video Streaming Over Preference-Aware Multipath](http://www.research.att.com/ecms/dam/sites/labs_research/content/publications/VA_MP-DASH_Adaptive_Video_Streaming.pdf) [CoNEXT'16]
+* [A Buffer-Based Approach to Rate Adaptation: Evidence from a Large Video Streaming Service](http://yuba.stanford.edu/~nickm/papers/sigcomm2014-video.pdf) [Sigcomm'14]
+* [Improving Fairness, Efficiency, and Stability in HTTP-based Adaptive Video Streaming with FESTIVE](https://conferences.sigcomm.org/co-next/2012/eproceedings/conext/p97.pdf) [CoNEXT'12]
 
 ## Video Telephony
 * [POI360: Panoramic Mobile Video Telephony over LTE Cellular Networks](http://xyzhang.ucsd.edu/papers/XXie_CoNEXT17_POI360.pdf) [CoNEXT'17]
@@ -15,6 +17,7 @@ Literature of video streaming research published in major venues such as Sigcomm
 ## 360 Degree Video
 * [Flare: Practical Viewport-Adaptive 360-Degree Video Streaming for Mobile Devices](https://www-users.cs.umn.edu/~fengqian/paper/flare_mobicom18.pdf) [Mobicom'18]
 * [Rubiks: Practical 360-Degree Streaming for Smartphones](http://www.cs.utexas.edu/~jianhe/rubiks_mobisys.pdf) [Mobisys'18]
+* [Favor: Fine-Grained Video Rate Adaptation](https://www.cs.utexas.edu/~mubashir/papers/favor_mmsys.pdf) [MMSys'18]
 * [A Measurement Study of Oculus 360 Degree Video Streaming](http://www.greenorbs.org/people/lzh/papers/[MMSys'17]%20360%20Video.pdf) [MMSys'17]
 
 ## Video Analytics
