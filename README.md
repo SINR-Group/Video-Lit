@@ -18,7 +18,13 @@ Literature of video streaming research published in major venues such as Sigcomm
 ## 360 Degree Video
 * [Flare: Practical Viewport-Adaptive 360-Degree Video Streaming for Mobile Devices](https://www-users.cs.umn.edu/~fengqian/paper/flare_mobicom18.pdf) [Mobicom'18]
 * [Rubiks: Practical 360-Degree Streaming for Smartphones](http://www.cs.utexas.edu/~jianhe/rubiks_mobisys.pdf) [Mobisys'18]
+* [CLS: A Cross-user Learning based System for Improving QoE in 360-degree Video Adaptive Streaming](https://dl.acm.org/citation.cfm?id=3240556) [MM'18]
 * [Favor: Fine-Grained Video Rate Adaptation](https://www.cs.utexas.edu/~mubashir/papers/favor_mmsys.pdf) [MMSys'18]
+* [An HTTP/2-Based Adaptive Streaming Framework for 360° Virtual Reality Videos](https://biblio.ugent.be/publication/8541796/file/8541800.pdf) [MM'17]
+* [360ProbDASH: Improving QoE of 360 Video Streaming Using Tile-based HTTP Adaptive Streaming](https://dl.acm.org/citation.cfm?id=3123266.3123291) [MM'17]
+* [OpTile: Toward Optimal Tiling in 360-degree Video Streaming](http://www.cs.binghamton.edu/~yaoliu/publications/mm17-optile.pdf) [MM'17]
+* [It’s All Around You: Exploring 360° Video iewing Experiences on Mobile Devices](http://www.fahim-kawsar.net/papers/Broeck.MM2017-Camera.pdf) [MM'17]
+* [Adaptive 360-Degree Video Streaming using Scalable Video Coding](https://www.utdallas.edu/~afshin/publication/360.pdf) [MM'17]
 * [A Measurement Study of Oculus 360 Degree Video Streaming](http://www.greenorbs.org/people/lzh/papers/[MMSys'17]%20360%20Video.pdf) [MMSys'17]
 
 ## Video Analytics
