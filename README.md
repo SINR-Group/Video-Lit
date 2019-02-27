@@ -20,6 +20,7 @@ Literature of video streaming research published in major venues such as Sigcomm
 * [Rubiks: Practical 360-Degree Streaming for Smartphones](http://www.cs.utexas.edu/~jianhe/rubiks_mobisys.pdf) [Mobisys'18]
 * [CLS: A Cross-user Learning based System for Improving QoE in 360-degree Video Adaptive Streaming](https://dl.acm.org/citation.cfm?id=3240556) [MM'18]
 * [Favor: Fine-Grained Video Rate Adaptation](https://www.cs.utexas.edu/~mubashir/papers/favor_mmsys.pdf) [MMSys'18]
+* [BAS-360: Exploring Spatial and Temporal Adaptability in 360-degree Videos over HTTP/2](http://www.cs.binghamton.edu/~yaoliu/publications/infocom18-bas360.pdf) [INFOCOM'18]
 * [An HTTP/2-Based Adaptive Streaming Framework for 360° Virtual Reality Videos](https://biblio.ugent.be/publication/8541796/file/8541800.pdf) [MM'17]
 * [360ProbDASH: Improving QoE of 360 Video Streaming Using Tile-based HTTP Adaptive Streaming](https://dl.acm.org/citation.cfm?id=3123266.3123291) [MM'17]
 * [OpTile: Toward Optimal Tiling in 360-degree Video Streaming](http://www.cs.binghamton.edu/~yaoliu/publications/mm17-optile.pdf) [MM'17]
@@ -37,3 +38,4 @@ Literature of video streaming research published in major venues such as Sigcomm
 ## VR/AR
 * [Cutting the Cord: Designing a High-quality Untethered VR System with Low Latency Remote Rendering](http://www.winlab.rutgers.edu/~gruteser/papers/mobisys18_low_latency_vr.pdf) [Mobisys'18]
 * [Furion: Engineering High-Quality Immersive Virtual Reality on Today’s Mobile Devices](http://www.yongcui.org/lunwen/Furion.pdf) [Mobicom'17]
+* [HEVC-compliant Tile-based Streaming of Panoramic Video for Virtual Reality Applications](https://dl.acm.org/citation.cfm?id=2967292) [MM'16]
