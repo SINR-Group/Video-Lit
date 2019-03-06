@@ -16,6 +16,7 @@ Literature of video streaming research published in major venues such as Sigcomm
 
 ## Video Telephony
 * [Salsify: Low-Latency Network Video Through Tighter Integration Between a Video Codec and a Transport Protocol](https://cs.stanford.edu/~keithw/salsify-paper.pdf) [NSDI'18]
+* [Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fouladi.pdf) [NSDI'17]
 * [POI360: Panoramic Mobile Video Telephony over LTE Cellular Networks](http://xyzhang.ucsd.edu/papers/XXie_CoNEXT17_POI360.pdf) [CoNEXT'17]
 
 ## 360 Degree Video
