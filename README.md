@@ -10,6 +10,7 @@ Literature of video streaming research published in major venues such as Sigcomm
 * [Neural Adaptive Video Streaming with Pensieve](https://people.csail.mit.edu/hongzi/content/publications/Pensieve-Sigcomm17.pdf) [SIGCOMM'17]
 * [Pytheas: Enabling Data-Driven QoE Optimization Using Group-Based Exploration-Exploitation](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-jiang_0.pdf) [NSDI'17]
 * [Dissecting VOD Services for Cellular: Performance, Root Causes and Best Practices](https://conferences.sigcomm.org/imc/2017/papers/imc17-final111.pdf) [IMC'17]
+* [CS2P: Improving Video Bitrate Selection and Adaptation with Data-Driven Throughput Prediction](https://users.ece.cmu.edu/~vsekar/papers/sigcomm16_cs2p.pdf) [SIGCOMM'16]
 * [MP-DASH: Adaptive Video Streaming Over Preference-Aware Multipath](http://www.research.att.com/ecms/dam/sites/labs_research/content/publications/VA_MP-DASH_Adaptive_Video_Streaming.pdf) [CoNEXT'16]
 * [BOLA: Near-Optimal Bitrate Adaptation for Online Videos](https://arxiv.org/pdf/1601.06748.pdf) [INFOCOM'16]
 * [A Control-Theoretic Approach for Dynamic Adaptive Video Streaming over HTTP](https://users.ece.cmu.edu/~vsekar/papers/sigcomm15_mpcdash.pdf) [SIGCOMM'15]
@@ -35,7 +36,7 @@ Literature of video streaming research published in major venues such as Sigcomm
 * [A Measurement Study of Oculus 360 Degree Video Streaming](http://www.greenorbs.org/people/lzh/papers/[MMSys'17]%20360%20Video.pdf) [MMSys'17]
 
 ## Video Analytics
-* [Chameleon: Scalable Adaptation of Video Analytics](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf) [Sigcomm'18]
+* [Chameleon: Scalable Adaptation of Video Analytics](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf) [SIGCOMM'18]
 * [Focus: Querying Large Video Datasets with Low Latency and Low Cost](https://www.usenix.org/system/files/osdi18-hsieh.pdf) [OSDI'18]
 
 ## Video Classification
