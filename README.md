@@ -43,5 +43,6 @@ Literature of video streaming research published in major venues such as Sigcomm
 
 ## VR/AR
 * [Cutting the Cord: Designing a High-quality Untethered VR System with Low Latency Remote Rendering](http://www.winlab.rutgers.edu/~gruteser/papers/mobisys18_low_latency_vr.pdf) [Mobisys'18]
+* [Creating the Perfect Illusion : What will it take to Create Life-Like Virtual Reality Headsets?](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/perfectillusion.pdf) [HotMobile'18]
 * [Furion: Engineering High-Quality Immersive Virtual Reality on Today’s Mobile Devices](http://www.yongcui.org/lunwen/Furion.pdf) [Mobicom'17]
 * [HEVC-compliant Tile-based Streaming of Panoramic Video for Virtual Reality Applications](https://dl.acm.org/citation.cfm?id=2967292) [MM'16]
