@@ -48,3 +48,11 @@ Literature of video streaming research published in major venues such as Sigcomm
 * [Creating the Perfect Illusion : What will it take to Create Life-Like Virtual Reality Headsets?](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/perfectillusion.pdf) [HotMobile'18]
 * [Furion: Engineering High-Quality Immersive Virtual Reality on Today’s Mobile Devices](http://www.yongcui.org/lunwen/Furion.pdf) [Mobicom'17]
 * [HEVC-compliant Tile-based Streaming of Panoramic Video for Virtual Reality Applications](https://dl.acm.org/citation.cfm?id=2967292) [MM'16]
+
+# Tools
+Following are the tools and libraries that are useful to build your ideas on top of.
+## Multimedia Libraries
+* [FFMPEG](https://ffmpeg.org/)
+* [GPAC](https://github.com/gpac/gpac)
+* [x265](https://github.com/videolan/x265)
+
