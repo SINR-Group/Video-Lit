@@ -41,6 +41,9 @@ Literature of video streaming research published in major venues such as Sigcomm
 * [Focus: Querying Large Video Datasets with Low Latency and Low Cost](https://www.usenix.org/system/files/osdi18-hsieh.pdf) [OSDI'18]
 
 ## Video Classification
+* [YouTube-8M: A Large-Scale Video Classification
+Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
+* [Beyond Short Snippets: Deep Networks for Video Classification](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ng_Beyond_Short_Snippets_2015_CVPR_paper.pdf) [CVPR'15]
 * [Large-scale Video Classification with Convolutional Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf) [CVPR'14]
 
 ## VR/AR
