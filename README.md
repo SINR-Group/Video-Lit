@@ -60,4 +60,5 @@ Following are the tools and libraries that are useful to build your ideas on top
 * [FFMPEG](https://ffmpeg.org/)
 * [GPAC](https://github.com/gpac/gpac)
 * [x265](https://github.com/videolan/x265)
+* [OBS Studio](https://obsproject.com/)
 
