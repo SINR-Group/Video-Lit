@@ -57,8 +57,8 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 # Tools
 Following are the tools and libraries that are useful to build your ideas on top of.
 ## Multimedia Libraries
-* [FFMPEG](https://ffmpeg.org/)
-* [GPAC](https://github.com/gpac/gpac)
-* [x265](https://github.com/videolan/x265)
-* [OBS Studio](https://obsproject.com/)
+* [FFMPEG](https://ffmpeg.org/): A multimedia library with a collection of diverse video codecs, filters, and video streaming capabilities.
+* [GPAC](https://github.com/gpac/gpac): A multimedia library that has decoding, rendering and displaying support. It also has support for 360 degree video delivery. It comes with MP4Box to package the video into DASH format segments and MP4Client a video player with adaptive video streaming solutions
+* [x265](https://github.com/videolan/x265): Open source implementation H.265 video codec.
+* [OBS Studio](https://obsproject.com/): Open source broadcaster software. It is useful to stream live videos on platforms such as Facebook and Periscope etc.
 
