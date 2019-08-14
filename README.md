@@ -25,6 +25,7 @@ Literature of video streaming research published in major venues such as Sigcomm
 * [POI360: Panoramic Mobile Video Telephony over LTE Cellular Networks](http://xyzhang.ucsd.edu/papers/XXie_CoNEXT17_POI360.pdf) [CoNEXT'17]
 
 ## 360 Degree Video
+* [Pano: Optimizing 360° Video Streaming with a Better Understanding of Quality Perception](https://people.cs.uchicago.edu/~junchenj/docs/360StreamingQuality_SIGCOMM.pdf) [SIGCOMM'19]
 * [Flare: Practical Viewport-Adaptive 360-Degree Video Streaming for Mobile Devices](https://www-users.cs.umn.edu/~fengqian/paper/flare_mobicom18.pdf) [Mobicom'18]
 * [Rubiks: Practical 360-Degree Streaming for Smartphones](http://www.cs.utexas.edu/~jianhe/rubiks_mobisys.pdf) [Mobisys'18]
 * [CLS: A Cross-user Learning based System for Improving QoE in 360-degree Video Adaptive Streaming](https://dl.acm.org/citation.cfm?id=3240556) [MM'18]
