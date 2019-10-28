@@ -20,6 +20,8 @@ Literature of video streaming research published in major venues such as Sigcomm
 * [Measurement Study of Low-bitrate Internet Video Streaming](https://www.land.ufrj.br/laboratory/repository/upfiles/inproceedings/meas-low-bit-video.pdf) [IMC'2001]
 
 ## Video Telephony
+* [Jigsaw: Robust Live 4K Video Streaming](http://www.cs.utexas.edu/~jianhe/jigsaw-mobicom19.pdf) [MobiCom'19]
+* [Learning to Coordinate Video Codec with Transport Protocol for Mobile Video Telephony](https://dl.acm.org/citation.cfm?id=3345430) [MobiCom'19]
 * [Salsify: Low-Latency Network Video Through Tighter Integration Between a Video Codec and a Transport Protocol](https://cs.stanford.edu/~keithw/salsify-paper.pdf) [NSDI'18]
 * [Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fouladi.pdf) [NSDI'17]
 * [POI360: Panoramic Mobile Video Telephony over LTE Cellular Networks](http://xyzhang.ucsd.edu/papers/XXie_CoNEXT17_POI360.pdf) [CoNEXT'17]
@@ -49,6 +51,7 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 * [Large-scale Video Classification with Convolutional Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf) [CVPR'14]
 
 ## Video Compression with Deep Learning
+* [Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision](https://dl.acm.org/citation.cfm?id=3345448) [MobiCom'19]
 * [DVC: An End-to-end Deep Video Compression Framework](https://github.com/GuoLusjtu/DVC) [CVPR'19]
 * [Deep Learning-Based Video Coding: A Review and A Case Study](https://arxiv.org/pdf/1904.12462.pdf) [arxiv'19]
 * [Video Compression through Image Interpolation](https://www.philkr.net/papers/2018-09-02-eccv/2018-09-02-eccv.pdf) [ECCV'18][[Code](https://github.com/chaoyuaw/pytorch-vcii)]
