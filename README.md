@@ -75,3 +75,4 @@ Following are the tools and libraries that are useful to build your ideas on top
 * [x265](https://github.com/videolan/x265): Open source implementation H.265 video codec.
 * [OBS Studio](https://obsproject.com/): Open source broadcaster software. It is useful to stream live videos on platforms such as Facebook and Periscope etc.
 
+* [SVT Encoders](https://github.com/OpenVisualCloud): Software (multithreaded CPU) implementation of HEVC, VP9 and AV1 encoders. 
