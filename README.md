@@ -66,7 +66,6 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 ## Saliency-aware Video Compression
 * [Revisiting Video Saliency: A Large-scale Benchmark and a New Model](https://zpascal.net/cvpr2018/Wang_Revisiting_Video_Saliency_CVPR_2018_paper.pdf) [CVPR'18]
 * [A semiautomatic saliency model and its application to video compression](http://compression.ru/video/savam/pdf/A_semiautomatic_saliency_model_and_its_application_to_video_compression_ICCP_2017_0.pdf) [ICCP'17]
-* 
 
 ## VR/AR
 * [Edge Assisted Real-time Object Detection for Mobile Augmented Reality](http://www.winlab.rutgers.edu/~luyang/papers/mobicom19_augmented_reality.pdf) [MobiCom'19] 
