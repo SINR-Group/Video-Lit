@@ -63,6 +63,11 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 * [Deep Learning-Based Video Coding: A Review and A Case Study](https://arxiv.org/pdf/1904.12462.pdf) [arxiv'19]
 * [Video Compression through Image Interpolation](https://www.philkr.net/papers/2018-09-02-eccv/2018-09-02-eccv.pdf) [ECCV'18][[Code](https://github.com/chaoyuaw/pytorch-vcii)]
 
+## Saliency-aware Video Compression
+* [Revisiting Video Saliency: A Large-scale Benchmark and a New Model](https://zpascal.net/cvpr2018/Wang_Revisiting_Video_Saliency_CVPR_2018_paper.pdf) [CVPR'18]
+* [A semiautomatic saliency model and its application to video compression](http://compression.ru/video/savam/pdf/A_semiautomatic_saliency_model_and_its_application_to_video_compression_ICCP_2017_0.pdf) [ICCP'17]
+* 
+
 ## VR/AR
 * [Edge Assisted Real-time Object Detection for Mobile Augmented Reality](http://www.winlab.rutgers.edu/~luyang/papers/mobicom19_augmented_reality.pdf) [MobiCom'19] 
 * [Cutting the Cord: Designing a High-quality Untethered VR System with Low Latency Remote Rendering](http://www.winlab.rutgers.edu/~gruteser/papers/mobisys18_low_latency_vr.pdf) [Mobisys'18]
@@ -77,5 +82,5 @@ Following are the tools and libraries that are useful to build your ideas on top
 * [GPAC](https://github.com/gpac/gpac): A multimedia library that has decoding, rendering and displaying support. It also has support for 360 degree video delivery. It comes with MP4Box to package the video into DASH format segments and MP4Client a video player with adaptive video streaming solutions
 * [x265](https://github.com/videolan/x265): Open source implementation H.265 video codec.
 * [OBS Studio](https://obsproject.com/): Open source broadcaster software. It is useful to stream live videos on platforms such as Facebook and Periscope etc.
-
 * [SVT Encoders](https://github.com/OpenVisualCloud): Software (multithreaded CPU) implementation of HEVC, VP9 and AV1 encoders. 
+* [Saliency-aware Video Codec](https://github.com/msu-video-group/x264_saliency_mod): X264 implementation of saliency-aware video compression.
