@@ -2,6 +2,7 @@
 Literature of video streaming research published in major venues such as Sigcomm, NSDI, Mobicom, Mobisys, IMC, CoNEXT, INFOCOM, MM, MMSys, OSDI, SOSP etc. 
 
 ## Video Streaming
+* [PERM: Neural Adaptive Video Streaming with Multi-path Transmission]() [INFOCOM'20]
 * [Optimizing video upload for time-shifted viewing of social live streams](https://conferences.sigcomm.org/sigcomm/2019/files/slides/paper_9_1.pdf) [SIGCOMM'19]
 * [Oboe: Auto-tuning Video ABR Algorithms to Network Conditions](https://engineering.purdue.edu/~isl/papers/sigcomm18-final128.pdf) [SIGCOMM'18]
 * [Neural Adaptive Content-aware Internet Video Delivery](https://www.usenix.org/system/files/osdi18-yeo.pdf) [OSDI'18]
