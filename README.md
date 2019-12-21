@@ -76,6 +76,9 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 * [Furion: Engineering High-Quality Immersive Virtual Reality on Today’s Mobile Devices](http://www.yongcui.org/lunwen/Furion.pdf) [Mobicom'17]
 * [HEVC-compliant Tile-based Streaming of Panoramic Video for Virtual Reality Applications](https://dl.acm.org/citation.cfm?id=2967292) [MM'16] 
 
+## Journals
+* [A Survey on Bitrate Adaptation Schemes for Streaming Media over HTTP](https://www.comp.nus.edu.sg/~bentaleb/files/papers/journal/ABRSurvey.pdf) [IEEE Communications Surveys & Tutorials]
+
 # Tools
 Following are the tools and libraries that are useful to build your ideas on top of.
 ## Multimedia Libraries
