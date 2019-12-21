@@ -77,7 +77,7 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 * [HEVC-compliant Tile-based Streaming of Panoramic Video for Virtual Reality Applications](https://dl.acm.org/citation.cfm?id=2967292) [MM'16] 
 
 ## Journals
-* [A Survey on Bitrate Adaptation Schemes for Streaming Media over HTTP](https://www.comp.nus.edu.sg/~bentaleb/files/papers/journal/ABRSurvey.pdf) [IEEE Communications Surveys & Tutorials]
+* [A Survey on Bitrate Adaptation Schemes for Streaming Media over HTTP](https://www.comp.nus.edu.sg/~bentaleb/files/papers/journal/ABRSurvey.pdf) [IEEE Communications Surveys & Tutorials'18]
 
 # Tools
 Following are the tools and libraries that are useful to build your ideas on top of.
