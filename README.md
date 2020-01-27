@@ -31,7 +31,7 @@ Literature of video streaming research published in major venues such as Sigcomm
 * [POI360: Panoramic Mobile Video Telephony over LTE Cellular Networks](http://xyzhang.ucsd.edu/papers/XXie_CoNEXT17_POI360.pdf) [CoNEXT'17]
 
 ## 360 Degree Video
-* [PARSEC: Streaming 360° Videos using Super-Resolution](https://www3.cs.stonybrook.edu/~mdasari/publications/) [INFOCOM'20]
+* [PARSEC: Streaming 360-degree Videos using Super-Resolution](https://www3.cs.stonybrook.edu/~mdasari/assets/pdf/infocom20.pdf) [INFOCOM'20]
 * [MOSAIC: Advancing User Quality of Experience in 360° Video Streaming](https://www3.cs.stonybrook.edu/~mdasari/assets/pdf/ifip19.pdf) [IFIP Networking'19]
 * [ClusTile: Toward Minimizing Bandwidth in 360-degree Video Streaming](http://www.cs.binghamton.edu/~yaoliu/publications/infocom18-clustile.pdf) [INFOCOM'19]
 * [Pano: Optimizing 360° Video Streaming with a Better Understanding of Quality Perception](https://people.cs.uchicago.edu/~junchenj/docs/360StreamingQuality_SIGCOMM.pdf) [SIGCOMM'19]
