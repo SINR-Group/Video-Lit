@@ -3,7 +3,7 @@ Literature of video streaming research published in major venues such as Sigcomm
 
 ## Video Streaming
 * [PERM: Neural Adaptive Video Streaming with Multi-path Transmission]() [INFOCOM'20]
-* [Optimizing video upload for time-shifted viewing of social live streams](https://conferences.sigcomm.org/sigcomm/2019/files/slides/paper_9_1.pdf) [SIGCOMM'19]
+* [End-to-End Transport for Video QoE Fairness](http://web.cs.ucla.edu/~ravi/CS219_F19/papers/minerva.pdf) [SIGCOMM'19]
 * [Oboe: Auto-tuning Video ABR Algorithms to Network Conditions](https://engineering.purdue.edu/~isl/papers/sigcomm18-final128.pdf) [SIGCOMM'18]
 * [Neural Adaptive Content-aware Internet Video Delivery](https://www.usenix.org/system/files/osdi18-yeo.pdf) [OSDI'18]
 * [ABR Streaming of VBR-encoded Videos: Characterization, Challenges, and Solutions](https://www-users.cs.umn.edu/~fengqian/paper/vbr_conext18.pdf) [CoNEXT'18]
