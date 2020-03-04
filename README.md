@@ -62,7 +62,6 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 
 ## Video Compression with Deep Learning
 * [Learned Video Compression](https://arxiv.org/pdf/1811.06981.pdf) [ICCV'19]
-* [Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision](https://dl.acm.org/citation.cfm?id=3345448) [MobiCom'19]
 * [DVC: An End-to-end Deep Video Compression Framework](https://github.com/GuoLusjtu/DVC) [CVPR'19]
 * [Deep Learning-Based Video Coding: A Review and A Case Study](https://arxiv.org/pdf/1904.12462.pdf) [arxiv'19]
 * [Video Compression through Image Interpolation](https://www.philkr.net/papers/2018-09-02-eccv/2018-09-02-eccv.pdf) [ECCV'18][[Code](https://github.com/chaoyuaw/pytorch-vcii)]
