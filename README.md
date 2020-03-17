@@ -61,6 +61,7 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 * [Large-scale Video Classification with Convolutional Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf) [CVPR'14]
 
 ## Video Compression with Deep Learning
+* [Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement](https://arxiv.org/pdf/2003.01966.pdf) [CVPR'20]
 * [Learned Video Compression](https://arxiv.org/pdf/1811.06981.pdf) [ICCV'19]
 * [DVC: An End-to-end Deep Video Compression Framework](https://github.com/GuoLusjtu/DVC) [CVPR'19]
 * [Deep Learning-Based Video Coding: A Review and A Case Study](https://arxiv.org/pdf/1904.12462.pdf) [arxiv'19]
