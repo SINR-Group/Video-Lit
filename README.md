@@ -9,6 +9,7 @@ Literature of video streaming research published in major venues such as Sigcomm
 * [Neural Adaptive Content-aware Internet Video Delivery](https://www.usenix.org/system/files/osdi18-yeo.pdf) [OSDI'18]
 * [ABR Streaming of VBR-encoded Videos: Characterization, Challenges, and Solutions](https://www-users.cs.umn.edu/~fengqian/paper/vbr_conext18.pdf) [CoNEXT'18]
 * [Understanding Video Management Planes](https://engineering.purdue.edu/~isl/papers/imc2018.pdf) [IMC'18]
+* [From Theory to Practice: Improving Bitrate Adaptation in the DASH Reference Player](https://www.akamai.com/us/en/multimedia/documents/technical-publication/improving-bitrate-adaptation-in-the-dash-reference-player.pdf) [MMSys'18]
 * [VideoNOC: assessing video QoE for network operators using passive measurements](https://www.cc.gatech.edu/~tmangla3/papers/VideoNOC_MMSys2018.pdf) [MMSys'18]
 * [Disk|Crypt|Net: rethinking the stack for high-performance video streaming](https://www.cl.cam.ac.uk/~rnw24/papers/201708-sigcomm-diskcryptnet.pdf) [SIGCOMM'17]
 * [Neural Adaptive Video Streaming with Pensieve](https://people.csail.mit.edu/hongzi/content/publications/Pensieve-Sigcomm17.pdf) [SIGCOMM'17][[Code](https://github.com/hongzimao/pensieve)]
