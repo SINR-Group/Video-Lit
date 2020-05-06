@@ -63,7 +63,7 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 
 ## Video Compression
 * [Layered Coding vs. Multiple Descriptions for Video Streaming over Multiple Paths](https://web.stanford.edu/~bgirod/pdfs/ChakareskiACM03.pdf) [ACM MM'03]
-* [Two-Layer Coding of Video Signals for VBR Networks] (https://web.stanford.edu/~bgirod/pdfs/ChakareskiACM03.pdf) [IEEE JSAC'1989]
+* [Two-Layer Coding of Video Signals for VBR Networks](https://web.stanford.edu/~bgirod/pdfs/ChakareskiACM03.pdf) [IEEE JSAC'1989]
 
 ## Video Compression with Deep Learning
 * [Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement](https://arxiv.org/pdf/2003.01966.pdf) [CVPR'20]
