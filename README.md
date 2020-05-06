@@ -61,6 +61,10 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 * [Beyond Short Snippets: Deep Networks for Video Classification](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ng_Beyond_Short_Snippets_2015_CVPR_paper.pdf) [CVPR'15]
 * [Large-scale Video Classification with Convolutional Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf) [CVPR'14]
 
+## Video Compression
+* [Layered Coding vs. Multiple Descriptions for Video Streaming over Multiple Paths](https://web.stanford.edu/~bgirod/pdfs/ChakareskiACM03.pdf) [ACM MM'03]
+* [Two-Layer Coding of Video Signals for VBR Networks] () [IEEE JSAC'1989]
+
 ## Video Compression with Deep Learning
 * [Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement](https://arxiv.org/pdf/2003.01966.pdf) [CVPR'20]
 * [Learned Video Compression](https://arxiv.org/pdf/1811.06981.pdf) [ICCV'19]
