@@ -1,5 +1,5 @@
 # VideoLiterature
-Literature of video streaming research published in major venues such as Sigcomm, NSDI, Mobicom, Mobisys, IMC, CoNEXT, INFOCOM, MM, MMSys, OSDI, SOSP etc. 
+Literature of video streaming research published in major venues such as SIGCOMM, NSDI, MobiCom, MobiSys, IMC, CoNEXT, INFOCOM, MM, MMSys, OSDI, SOSP etc. 
 
 ## Video Streaming
 * [Learning in situ: a randomized experiment in video streaming](https://arxiv.org/pdf/1906.01113.pdf) [NSDI'20]
