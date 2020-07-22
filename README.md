@@ -14,7 +14,6 @@ Literature of video streaming research published in major venues such as SIGCOMM
 * [Disk|Crypt|Net: rethinking the stack for high-performance video streaming](https://www.cl.cam.ac.uk/~rnw24/papers/201708-sigcomm-diskcryptnet.pdf) [SIGCOMM'17]
 * [Neural Adaptive Video Streaming with Pensieve](https://people.csail.mit.edu/hongzi/content/publications/Pensieve-Sigcomm17.pdf) [SIGCOMM'17][[Code](https://github.com/hongzimao/pensieve)]
 * [Pytheas: Enabling Data-Driven QoE Optimization Using Group-Based Exploration-Exploitation](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-jiang_0.pdf) [NSDI'17]
-* [Race-To-Sleep + Content Caching + Display Caching: A Recipe for Energy-eficient Video Streaming on Handhelds](https://dl.acm.org/doi/10.1145/3123939.3123948) [MICRO '17]
 * [Dissecting VOD Services for Cellular: Performance, Root Causes and Best Practices](https://conferences.sigcomm.org/imc/2017/papers/imc17-final111.pdf) [IMC'17]
 * [CS2P: Improving Video Bitrate Selection and Adaptation with Data-Driven Throughput Prediction](https://users.ece.cmu.edu/~vsekar/papers/sigcomm16_cs2p.pdf) [SIGCOMM'16]
 * [MP-DASH: Adaptive Video Streaming Over Preference-Aware Multipath](http://www.research.att.com/ecms/dam/sites/labs_research/content/publications/VA_MP-DASH_Adaptive_Video_Streaming.pdf) [CoNEXT'16]
@@ -25,7 +24,6 @@ Literature of video streaming research published in major venues such as SIGCOMM
 * [A Buffer-Based Approach to Rate Adaptation: Evidence from a Large Video Streaming Service](http://yuba.stanford.edu/~nickm/papers/sigcomm2014-video.pdf) [SIGCOMM'14]
 * [Improving Fairness, Efficiency, and Stability in HTTP-based Adaptive Video Streaming with FESTIVE](https://conferences.sigcomm.org/co-next/2012/eproceedings/conext/p97.pdf) [CoNEXT'12]
 * [Measurement Study of Low-bitrate Internet Video Streaming](https://www.land.ufrj.br/laboratory/repository/upfiles/inproceedings/meas-low-bit-video.pdf) [IMC'2001]
-* [Distilling the Essence of Raw Video to Reduce Memory Usage and Energy at Edge Devices](https://dl.acm.org/doi/10.1145/3352460.3358298) [MICRO '19]
 
 
 ## Video Telephony
@@ -37,7 +35,6 @@ Literature of video streaming research published in major venues such as SIGCOMM
 * [POI360: Panoramic Mobile Video Telephony over LTE Cellular Networks](http://xyzhang.ucsd.edu/papers/XXie_CoNEXT17_POI360.pdf) [CoNEXT'17]
 
 ## 360 Degree Video
-* [Deja View: Spatio-Temporal Compute Reuse for Energy-Efficient 360° VR Video Streaming](https://conferences.computer.org/isca/pdfs/ISCA2020-4QlDegUf3fKiwUXfV0KdCm/466100a241/466100a241.pdf) [ISCA '20]
 * [PARSEC: Streaming 360-degree Videos using Super-Resolution](https://www3.cs.stonybrook.edu/~mdasari/assets/pdf/infocom20.pdf) [INFOCOM'20]
 * [MOSAIC: Advancing User Quality of Experience in 360° Video Streaming](https://www3.cs.stonybrook.edu/~mdasari/assets/pdf/ifip19.pdf) [IFIP Networking'19]
 * [ClusTile: Toward Minimizing Bandwidth in 360-degree Video Streaming](http://www.cs.binghamton.edu/~yaoliu/publications/infocom18-clustile.pdf) [INFOCOM'19]
@@ -55,6 +52,11 @@ Literature of video streaming research published in major venues such as SIGCOMM
 * [Adaptive 360-Degree Video Streaming using Scalable Video Coding](https://www.utdallas.edu/~afshin/publication/360.pdf) [MM'17]
 * [A Measurement Study of Oculus 360 Degree Video Streaming](http://www.greenorbs.org/people/lzh/papers/[MMSys'17]%20360%20Video.pdf) [MMSys'17]
 * [Optimal Set of 360-Degree Videos for Viewport-Adaptive Streaming](https://dl.acm.org/citation.cfm?id=3123372) [MM'17]
+
+## Energy Efficiency
+* [Deja View: Spatio-Temporal Compute Reuse for Energy-Efficient 360° VR Video Streaming](https://conferences.computer.org/isca/pdfs/ISCA2020-4QlDegUf3fKiwUXfV0KdCm/466100a241/466100a241.pdf) [ISCA '20]
+* [Distilling the Essence of Raw Video to Reduce Memory Usage and Energy at Edge Devices](https://dl.acm.org/doi/10.1145/3352460.3358298) [MICRO '19]
+* [Race-To-Sleep + Content Caching + Display Caching: A Recipe for Energy-eficient Video Streaming on Handhelds](https://dl.acm.org/doi/10.1145/3123939.3123948) [MICRO '17]
 
 ## Video Analytics
 * [Chameleon: Scalable Adaptation of Video Analytics](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf) [SIGCOMM'18]
