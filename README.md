@@ -103,3 +103,6 @@ Following are the tools and libraries that are useful to build your ideas on top
 * [OBS Studio](https://obsproject.com/): Open source broadcaster software. It is useful to stream live videos on platforms such as Facebook and Periscope etc.
 * [SVT Encoders](https://github.com/OpenVisualCloud): Software (multithreaded CPU) implementation of HEVC, VP9 and AV1 encoders.
 * [Saliency-aware Video Codec](https://github.com/msu-video-group/x264_saliency_mod): X264 implementation of saliency-aware video compression.
+* [SHVC](https://hevc.hhi.fraunhofer.de/shvc): Layered coding - scalable extentions for H.265/HEVC
+* [SVC](https://avc.hhi.fraunhofer.de/svc): Layered coding - scalable extensions for H.264/AVC
+* [VVC](https://jvet.hhi.fraunhofer.de/): Reference implementation of H.266/VVC 
