@@ -1,5 +1,5 @@
 # VideoLiterature
-Literature of video streaming research published in major venues such as SIGCOMM, NSDI, MobiCom, MobiSys, IMC, CoNEXT, INFOCOM, MM, MMSys, OSDI, SOSP etc. 
+Literature of video streaming research published in major venues such as SIGCOMM, NSDI, MobiCom, MobiSys, IMC, CoNEXT, INFOCOM, MM, MMSys, OSDI, SOSP etc.
 
 ## Video Streaming
 * [Learning in situ: a randomized experiment in video streaming](https://arxiv.org/pdf/1906.01113.pdf) [NSDI'20]
@@ -24,6 +24,9 @@ Literature of video streaming research published in major venues such as SIGCOMM
 * [A Buffer-Based Approach to Rate Adaptation: Evidence from a Large Video Streaming Service](http://yuba.stanford.edu/~nickm/papers/sigcomm2014-video.pdf) [SIGCOMM'14]
 * [Improving Fairness, Efficiency, and Stability in HTTP-based Adaptive Video Streaming with FESTIVE](https://conferences.sigcomm.org/co-next/2012/eproceedings/conext/p97.pdf) [CoNEXT'12]
 * [Measurement Study of Low-bitrate Internet Video Streaming](https://www.land.ufrj.br/laboratory/repository/upfiles/inproceedings/meas-low-bit-video.pdf) [IMC'2001]
+* [Race-To-Sleep + Content Caching + Display Caching: A Recipe for Energy-eficient Video Streaming on Handhelds](https://dl.acm.org/doi/10.1145/3123939.3123948) [MICRO '17]
+* [Distilling the Essence of Raw Video to Reduce Memory Usage and Energy at Edge Devices](https://dl.acm.org/doi/10.1145/3352460.3358298) [MICRO '19]
+
 
 ## Video Telephony
 * [Jigsaw: Robust Live 4K Video Streaming](http://www.cs.utexas.edu/~jianhe/jigsaw-mobicom19.pdf) [MobiCom'19]
@@ -51,6 +54,7 @@ Literature of video streaming research published in major venues such as SIGCOMM
 * [Adaptive 360-Degree Video Streaming using Scalable Video Coding](https://www.utdallas.edu/~afshin/publication/360.pdf) [MM'17]
 * [A Measurement Study of Oculus 360 Degree Video Streaming](http://www.greenorbs.org/people/lzh/papers/[MMSys'17]%20360%20Video.pdf) [MMSys'17]
 * [Optimal Set of 360-Degree Videos for Viewport-Adaptive Streaming](https://dl.acm.org/citation.cfm?id=3123372) [MM'17]
+* [Deja View: Spatio-Temporal Compute Reuse for Energy-Efficient 360° VR Video Streaming](https://conferences.computer.org/isca/pdfs/ISCA2020-4QlDegUf3fKiwUXfV0KdCm/466100a241/466100a241.pdf) [ISCA '20]
 
 ## Video Analytics
 * [Chameleon: Scalable Adaptation of Video Analytics](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf) [SIGCOMM'18]
@@ -78,11 +82,11 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 * [A semiautomatic saliency model and its application to video compression](http://compression.ru/video/savam/pdf/A_semiautomatic_saliency_model_and_its_application_to_video_compression_ICCP_2017_0.pdf) [ICCP'17]
 
 ## VR/AR
-* [Edge Assisted Real-time Object Detection for Mobile Augmented Reality](http://www.winlab.rutgers.edu/~luyang/papers/mobicom19_augmented_reality.pdf) [MobiCom'19] 
+* [Edge Assisted Real-time Object Detection for Mobile Augmented Reality](http://www.winlab.rutgers.edu/~luyang/papers/mobicom19_augmented_reality.pdf) [MobiCom'19]
 * [Cutting the Cord: Designing a High-quality Untethered VR System with Low Latency Remote Rendering](http://www.winlab.rutgers.edu/~gruteser/papers/mobisys18_low_latency_vr.pdf) [Mobisys'18]
 * [Creating the Perfect Illusion : What will it take to Create Life-Like Virtual Reality Headsets?](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/perfectillusion.pdf) [HotMobile'18]
 * [Furion: Engineering High-Quality Immersive Virtual Reality on Today’s Mobile Devices](http://www.yongcui.org/lunwen/Furion.pdf) [Mobicom'17]
-* [HEVC-compliant Tile-based Streaming of Panoramic Video for Virtual Reality Applications](https://dl.acm.org/citation.cfm?id=2967292) [MM'16] 
+* [HEVC-compliant Tile-based Streaming of Panoramic Video for Virtual Reality Applications](https://dl.acm.org/citation.cfm?id=2967292) [MM'16]
 
 ## Journals
 * [A Survey on Bitrate Adaptation Schemes for Streaming Media over HTTP](https://www.comp.nus.edu.sg/~bentaleb/files/papers/journal/ABRSurvey.pdf) [IEEE Communications Surveys & Tutorials'18]
@@ -94,5 +98,5 @@ Following are the tools and libraries that are useful to build your ideas on top
 * [GPAC](https://github.com/gpac/gpac): A multimedia library that has decoding, rendering and displaying support. It also has support for 360 degree video delivery. It comes with MP4Box to package the video into DASH format segments and MP4Client a video player with adaptive video streaming solutions
 * [x265](https://github.com/videolan/x265): Open source implementation H.265 video codec.
 * [OBS Studio](https://obsproject.com/): Open source broadcaster software. It is useful to stream live videos on platforms such as Facebook and Periscope etc.
-* [SVT Encoders](https://github.com/OpenVisualCloud): Software (multithreaded CPU) implementation of HEVC, VP9 and AV1 encoders. 
+* [SVT Encoders](https://github.com/OpenVisualCloud): Software (multithreaded CPU) implementation of HEVC, VP9 and AV1 encoders.
 * [Saliency-aware Video Codec](https://github.com/msu-video-group/x264_saliency_mod): X264 implementation of saliency-aware video compression.
