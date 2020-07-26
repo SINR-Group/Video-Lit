@@ -28,6 +28,7 @@ Literature of video streaming research published in major venues such as SIGCOMM
 
 
 ## Video Telephony
+* [LiveNAS - Neural-Enhanced Live Streaming: Improving Live Video Ingest via Online Learning]() [SIGCOMM'20]
 * [Jigsaw: Robust Live 4K Video Streaming](http://www.cs.utexas.edu/~jianhe/jigsaw-mobicom19.pdf) [MobiCom'19]
 * [Learning to Coordinate Video Codec with Transport Protocol for Mobile Video Telephony](https://dl.acm.org/citation.cfm?id=3345430) [MobiCom'19]
 * [Vantage: optimizing video upload for time-shifted viewing of social live streams](https://dl.acm.org/citation.cfm?id=3342064) [SIGCOMM'19]
