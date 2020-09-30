@@ -77,6 +77,7 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 
 ## Video Streaming using Layered Video Coding
 * [Grad: Learning for Overhead-aware Adaptive Video Streaming with Scalable Video Coding](http://jhc.sjtu.edu.cn/~bjiang/papers/Liu_MM2020_Grad.pdf) [ACM MM'20]
+* [LBP: Robust Rate Adaptation Algorithm for SVC Video Streaming](https://arxiv.org/pdf/1805.00041.pdf) [IEEE/ACM ToN'19]
 * [Layer-Assisted Adaptive Video Streaming](https://dl.acm.org/doi/pdf/10.1145/3210445.3210454) [ACM NOSSDAV'18]
 
 ## Layered Video Coding
