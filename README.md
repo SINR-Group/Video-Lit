@@ -75,30 +75,30 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 * [Beyond Short Snippets: Deep Networks for Video Classification](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ng_Beyond_Short_Snippets_2015_CVPR_paper.pdf) [CVPR'15]
 * [Large-scale Video Classification with Convolutional Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf) [CVPR'14]
 
-## Video Streaming using Layered Video Compression (aka Scalable Video Coding)
+## Video Streaming using Layered Video Coding
 * [Grad: Learning for Overhead-aware Adaptive Video Streaming with Scalable Video Coding](http://jhc.sjtu.edu.cn/~bjiang/papers/Liu_MM2020_Grad.pdf) [ACM MM'20]
 * [Layer-Assisted Adaptive Video Streaming](https://dl.acm.org/doi/pdf/10.1145/3210445.3210454) [ACM NOSSDAV'18]
 
-## Layered Video Compression
+## Layered Video Coding
 * [Layered Coding vs. Multiple Descriptions for Video Streaming over Multiple Paths](https://web.stanford.edu/~bgirod/pdfs/ChakareskiACM03.pdf) [ACM MM'03]
 * [Two-Layer Coding of Video Signals for VBR Networks](https://web.stanford.edu/~bgirod/pdfs/ChakareskiACM03.pdf) [IEEE JSAC'1989]
 
-## Video Compression with Deep Learning
+## Video Coding with Deep Learning
 * [Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement](https://arxiv.org/pdf/2003.01966.pdf) [CVPR'20]
 * [Learned Video Compression](https://arxiv.org/pdf/1811.06981.pdf) [ICCV'19]
 * [DVC: An End-to-end Deep Video Compression Framework](https://github.com/GuoLusjtu/DVC) [CVPR'19]
 * [Deep Learning-Based Video Coding: A Review and A Case Study](https://arxiv.org/pdf/1904.12462.pdf) [arxiv'19]
 * [Video Compression through Image Interpolation](https://www.philkr.net/papers/2018-09-02-eccv/2018-09-02-eccv.pdf) [ECCV'18][[Code](https://github.com/chaoyuaw/pytorch-vcii)]
 
-## Saliency-aware Video Compression
+## Saliency-aware Video Coding
 * [Revisiting Video Saliency: A Large-scale Benchmark and a New Model](https://zpascal.net/cvpr2018/Wang_Revisiting_Video_Saliency_CVPR_2018_paper.pdf) [CVPR'18]
 * [A semiautomatic saliency model and its application to video compression](http://compression.ru/video/savam/pdf/A_semiautomatic_saliency_model_and_its_application_to_video_compression_ICCP_2017_0.pdf) [ICCP'17]
 
 ## VR/AR
 * [Edge Assisted Real-time Object Detection for Mobile Augmented Reality](http://www.winlab.rutgers.edu/~luyang/papers/mobicom19_augmented_reality.pdf) [MobiCom'19]
-* [Cutting the Cord: Designing a High-quality Untethered VR System with Low Latency Remote Rendering](http://www.winlab.rutgers.edu/~gruteser/papers/mobisys18_low_latency_vr.pdf) [Mobisys'18]
+* [Cutting the Cord: Designing a High-quality Untethered VR System with Low Latency Remote Rendering](http://www.winlab.rutgers.edu/~gruteser/papers/mobisys18_low_latency_vr.pdf) [MobiSys'18]
 * [Creating the Perfect Illusion : What will it take to Create Life-Like Virtual Reality Headsets?](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/perfectillusion.pdf) [HotMobile'18]
-* [Furion: Engineering High-Quality Immersive Virtual Reality on Today’s Mobile Devices](http://www.yongcui.org/lunwen/Furion.pdf) [Mobicom'17]
+* [Furion: Engineering High-Quality Immersive Virtual Reality on Today’s Mobile Devices](http://www.yongcui.org/lunwen/Furion.pdf) [MobiCom'17]
 * [HEVC-compliant Tile-based Streaming of Panoramic Video for Virtual Reality Applications](https://dl.acm.org/citation.cfm?id=2967292) [MM'16]
 
 ## Journals
