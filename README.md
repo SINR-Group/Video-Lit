@@ -75,7 +75,11 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 * [Beyond Short Snippets: Deep Networks for Video Classification](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ng_Beyond_Short_Snippets_2015_CVPR_paper.pdf) [CVPR'15]
 * [Large-scale Video Classification with Convolutional Neural Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf) [CVPR'14]
 
-## Video Compression
+## Video Streaming using Layered Video Compression (aka Scalable Video Coding)
+* [Grad: Learning for Overhead-aware Adaptive Video Streaming with Scalable Video Coding](http://jhc.sjtu.edu.cn/~bjiang/papers/Liu_MM2020_Grad.pdf) [ACM MM'20]
+* [Layer-Assisted Adaptive Video Streaming](https://dl.acm.org/doi/pdf/10.1145/3210445.3210454) [ACM NOSSDAV'18]
+
+## Layered Video Compression
 * [Layered Coding vs. Multiple Descriptions for Video Streaming over Multiple Paths](https://web.stanford.edu/~bgirod/pdfs/ChakareskiACM03.pdf) [ACM MM'03]
 * [Two-Layer Coding of Video Signals for VBR Networks](https://web.stanford.edu/~bgirod/pdfs/ChakareskiACM03.pdf) [IEEE JSAC'1989]
 
