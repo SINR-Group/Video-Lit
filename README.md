@@ -67,6 +67,11 @@ Literature of video streaming research published in major venues such as SIGCOMM
 * [Race-To-Sleep + Content Caching + Display Caching: A Recipe for Energy-eficient Video Streaming on Handhelds](https://dl.acm.org/doi/10.1145/3123939.3123948) [MICRO '17]
 
 ## Video Analytics
+* [Enabling Edge-Cloud Video Analytics for Robotic Applications](https://www.cse.ust.hk/~ywanggf/public/files/runespoor-infocom21.pdf) [INFOCOM'21]
+* [Server-Driven Video Streaming for Deep Learning Inference](https://people.cs.uchicago.edu/~junchenj/docs/DDS-Sigcomm20.pdf) [SIGCOMM'20]
+* [Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics](http://web.cs.ucla.edu/~harryxu/papers/li-sigcomm20.pdf) [SIGCOMM'20]
+* [Scaling Video Analytics on Constrained Edge Nodes](https://hyeontaek.com/papers/ff-sysml2019.pdf) [SysML'19]
+* [AWStream: adaptive wide-area streaming analytics](https://awstream.github.io/paper/awstream.pdf) [SIGCOMM'18]
 * [Chameleon: Scalable Adaptation of Video Analytics](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf) [SIGCOMM'18]
 * [Focus: Querying Large Video Datasets with Low Latency and Low Cost](https://www.usenix.org/system/files/osdi18-hsieh.pdf) [OSDI'18]
 
