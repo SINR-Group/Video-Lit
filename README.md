@@ -41,6 +41,7 @@ Literature of video streaming research published in major venues such as SIGCOMM
 * [POI360: Panoramic Mobile Video Telephony over LTE Cellular Networks](http://xyzhang.ucsd.edu/papers/XXie_CoNEXT17_POI360.pdf) [CoNEXT'17]
 
 ## 360 Degree Video
+* [PARIMA: Viewport Adaptive 360-Degree Video Streaming](https://www.researchgate.net/publication/349704480_PARIMA_Viewport_Adaptive_360-Degree_Video_Streaming) [WWW'2021]
 * [PARSEC: Streaming 360-degree Videos using Super-Resolution](https://www3.cs.stonybrook.edu/~mdasari/assets/pdf/infocom20.pdf) [INFOCOM'20] [[Code](https://github.com/VideoForage/Super-Resolution)]
 * [GROOT: A Real-time Streaming System of High-Fidelity Volumetric Videos]() [MobiCom'20]
 * [ViVo: Visibility-Aware Mobile Volumetric Video Streaming]() [MobiCom'20]
