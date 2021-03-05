@@ -45,6 +45,7 @@ Literature of video streaming research published in major venues such as SIGCOMM
 * [PARSEC: Streaming 360-degree Videos using Super-Resolution](https://www3.cs.stonybrook.edu/~mdasari/assets/pdf/infocom20.pdf) [INFOCOM'20] [[Code](https://github.com/VideoForage/Super-Resolution)]
 * [GROOT: A Real-time Streaming System of High-Fidelity Volumetric Videos]() [MobiCom'20]
 * [ViVo: Visibility-Aware Mobile Volumetric Video Streaming]() [MobiCom'20]
+* [Flocking-based Live Streaming of 360-degree Video](https://www.researchgate.net/publication/341703327_Flocking-based_live_streaming_of_360-degree_video) [MMSys'20]
 * [MOSAIC: Advancing User Quality of Experience in 360° Video Streaming](https://www3.cs.stonybrook.edu/~mdasari/assets/pdf/ifip19.pdf) [IFIP Networking'19]
 * [ClusTile: Toward Minimizing Bandwidth in 360-degree Video Streaming](http://www.cs.binghamton.edu/~yaoliu/publications/infocom18-clustile.pdf) [INFOCOM'19]
 * [Pano: Optimizing 360° Video Streaming with a Better Understanding of Quality Perception](https://people.cs.uchicago.edu/~junchenj/docs/360StreamingQuality_SIGCOMM.pdf) [SIGCOMM'19]
