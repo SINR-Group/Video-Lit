@@ -93,6 +93,7 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 * [Multiple Description Coding](https://github.com/mdasari823/Multiple-Description-Coding)
 
 ## Video Coding with Deep Learning
+* [ELF-VC: Efficient Learned Flexible-Rate Video Coding](https://arxiv.org/pdf/2104.14335.pdf) []
 * [Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement](https://arxiv.org/pdf/2003.01966.pdf) [CVPR'20]
 * [Learned Video Compression](https://arxiv.org/pdf/1811.06981.pdf) [ICCV'19]
 * [DVC: An End-to-end Deep Video Compression Framework](https://github.com/GuoLusjtu/DVC) [CVPR'19]
