@@ -93,6 +93,8 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 * [Multiple Description Coding](https://github.com/mdasari823/Multiple-Description-Coding)
 
 ## Video Coding with Deep Learning
+* [Efficient Video Compression via Content-Adaptive Super-Resolution](https://openaccess.thecvf.com/content/ICCV2021/papers/Khani_Efficient_Video_Compression_via_Content-Adaptive_Super-Resolution_ICCV_2021_paper.pdf) [ICCV'21] [[Code](https://github.com/AdaptiveVC/SRVC)]
+* [Online-trained Upsampler for Deep Low Complexity Video Compression](https://openaccess.thecvf.com/content/ICCV2021/papers/Klopp_Online-Trained_Upsampler_for_Deep_Low_Complexity_Video_Compression_ICCV_2021_paper.pdf) [ICCV'21]
 * [ELF-VC: Efficient Learned Flexible-Rate Video Coding](https://arxiv.org/pdf/2104.14335.pdf) [arxiv'21]
 * [Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement](https://arxiv.org/pdf/2003.01966.pdf) [CVPR'20]
 * [Learned Video Compression](https://arxiv.org/pdf/1811.06981.pdf) [ICCV'19]
