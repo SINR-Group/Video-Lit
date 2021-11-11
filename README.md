@@ -63,7 +63,8 @@ Literature of video streaming research published in major venues such as SIGCOMM
 * [A Measurement Study of Oculus 360 Degree Video Streaming](http://www.greenorbs.org/people/lzh/papers/[MMSys'17]%20360%20Video.pdf) [MMSys'17]
 * [Optimal Set of 360-Degree Videos for Viewport-Adaptive Streaming](https://dl.acm.org/citation.cfm?id=3123372) [MM'17]
 
-## Energy Efficiency
+## Architectural Support for Video Streaming
+* [Warehouse-Scale Video Acceleration: Co-design and Deployment in the Wild](https://www.gwern.net/docs/cs/2021-ranganathan.pdf) [ASPLOS'21]
 * [Deja View: Spatio-Temporal Compute Reuse for Energy-Efficient 360° VR Video Streaming](https://conferences.computer.org/isca/pdfs/ISCA2020-4QlDegUf3fKiwUXfV0KdCm/466100a241/466100a241.pdf) [ISCA '20]
 * [Distilling the Essence of Raw Video to Reduce Memory Usage and Energy at Edge Devices](https://dl.acm.org/doi/10.1145/3352460.3358298) [MICRO '19]
 * [Race-To-Sleep + Content Caching + Display Caching: A Recipe for Energy-eficient Video Streaming on Handhelds](https://dl.acm.org/doi/10.1145/3123939.3123948) [MICRO '17]
