@@ -109,6 +109,7 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 * [A semiautomatic saliency model and its application to video compression](http://compression.ru/video/savam/pdf/A_semiautomatic_saliency_model_and_its_application_to_video_compression_ICCP_2017_0.pdf) [ICCP'17]
 
 ## VR/AR
+* [Towards Retina-Quality VR Video Streaming: 15 ms Could Save You 80% of Your Bandwidth](https://arxiv.org/pdf/2108.12720.pdf) [Arxive'21]
 * [Edge Assisted Real-time Object Detection for Mobile Augmented Reality](http://www.winlab.rutgers.edu/~luyang/papers/mobicom19_augmented_reality.pdf) [MobiCom'19]
 * [Cutting the Cord: Designing a High-quality Untethered VR System with Low Latency Remote Rendering](http://www.winlab.rutgers.edu/~gruteser/papers/mobisys18_low_latency_vr.pdf) [MobiSys'18]
 * [Creating the Perfect Illusion : What will it take to Create Life-Like Virtual Reality Headsets?](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/perfectillusion.pdf) [HotMobile'18]
