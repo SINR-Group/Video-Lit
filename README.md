@@ -118,14 +118,15 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 ## Journals
 * [A Survey on Bitrate Adaptation Schemes for Streaming Media over HTTP](https://www.comp.nus.edu.sg/~bentaleb/files/papers/journal/ABRSurvey.pdf) [IEEE Communications Surveys & Tutorials'18]
 
-## History/Classical Papers
+## Video Streaming in the Early Days
 * [The Feasibility of Supporting Large-Scale Live Streaming Applications with Dynamic Application End-Points](https://www.conviva.com/wp-content/uploads/2017/09/the-feasability-of-supporting-live-streaming-with-dynamic-application-endpoints.pdf) [SIGCOMM'04]
 * [An Analysis of Live Streaming Workloads on the Internet](https://www.akamai.com/content/dam/site/en/documents/research-paper/an-analysis-of-live-streaming-workloads-on-the-internet-technical-publication.pdf) [IMC'04]
 * [Measurement Study of Low-bitrate Internet Video Streaming](https://www.land.ufrj.br/laboratory/repository/upfiles/inproceedings/meas-low-bit-video.pdf) [IMC'01]
 * [An Empirical Study of RealVideo Performance Across the Internet](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.6973&rep=rep1&type=pdf) [IMC'01]
-* [Analysis, Modeling and Generation of Self-Similar VBR Video Traffic](http://www.cs.kent.edu/~xzou/NetProj/Ref/040124164326272342.pdf) [SIGCOMM'94]
-* [On buffer requirements for store-and-forward video on demand service circuits](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=188525) [GLOBECOM'91]
-* [Video On Demand: Is It Feasible?](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=116506) [GLOBECOM'90]
+* [Analysis, Modeling and Generation of Self-Similar VBR Video Traffic](http://www.cs.kent.edu/~xzou/NetProj/Ref/040124164326272342.pdf) [SIGCOMM'1994]
+* [On buffer requirements for store-and-forward video on demand service circuits](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=188525) [GLOBECOM'1991]
+* [Video On Demand: Is It Feasible?](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=116506) [GLOBECOM'1990]
+* [Video on Demand: A Wideband Service or Myth?](https://www.semanticscholar.org/paper/Video-on-Demand%3A-A-Wideband-Service-or-Myth-Judice-Addeo/ced4fa8baa5dd935aae67a9b352a7b6e637b6c00) [ICC'1986]
 
 # Tools
 Following are the tools and libraries that are useful to build your ideas on top of.
