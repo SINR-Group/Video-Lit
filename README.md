@@ -119,6 +119,9 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 ## Journals
 * [A Survey on Bitrate Adaptation Schemes for Streaming Media over HTTP](https://www.comp.nus.edu.sg/~bentaleb/files/papers/journal/ABRSurvey.pdf) [IEEE Communications Surveys & Tutorials'18]
 
+## History
+* [Video On Demand: Is It Feasible?](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=116506) [GLOBECOM'90]
+
 # Tools
 Following are the tools and libraries that are useful to build your ideas on top of.
 ## Multimedia Libraries
