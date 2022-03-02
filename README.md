@@ -27,7 +27,7 @@ Literature of video streaming research published in major venues such as SIGCOMM
 * [Can Accurate Predictions Improve Video Streaming in Cellular Networks?](http://www.cs.jhu.edu/~xinjin/files/HotMobile15_VideoStreaming.pdf) [HotMobile'15]
 * [A Buffer-Based Approach to Rate Adaptation: Evidence from a Large Video Streaming Service](http://yuba.stanford.edu/~nickm/papers/sigcomm2014-video.pdf) [SIGCOMM'14]
 * [Improving Fairness, Efficiency, and Stability in HTTP-based Adaptive Video Streaming with FESTIVE](https://conferences.sigcomm.org/co-next/2012/eproceedings/conext/p97.pdf) [CoNEXT'12]
-* [Measurement Study of Low-bitrate Internet Video Streaming](https://www.land.ufrj.br/laboratory/repository/upfiles/inproceedings/meas-low-bit-video.pdf) [IMC'2001]
+* [Measurement Study of Low-bitrate Internet Video Streaming](https://www.land.ufrj.br/laboratory/repository/upfiles/inproceedings/meas-low-bit-video.pdf) [IMC'01]
 
 
 ## Video Telephony
@@ -120,6 +120,7 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 * [A Survey on Bitrate Adaptation Schemes for Streaming Media over HTTP](https://www.comp.nus.edu.sg/~bentaleb/files/papers/journal/ABRSurvey.pdf) [IEEE Communications Surveys & Tutorials'18]
 
 ## History
+* [An Analysis of Live Streaming Workloads on the Internet](https://www.akamai.com/content/dam/site/en/documents/research-paper/an-analysis-of-live-streaming-workloads-on-the-internet-technical-publication.pdf) [IMC'04]
 * [Video On Demand: Is It Feasible?](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=116506) [GLOBECOM'90]
 
 # Tools
