@@ -2,6 +2,7 @@
 Literature of video streaming research published in major venues such as SIGCOMM, NSDI, MobiCom, MobiSys, IMC, CoNEXT, INFOCOM, MM, MMSys, OSDI, SOSP etc.
 
 ## Video Streaming
+* [Swift: Adaptive Video Streaming with Layered Neural Codecs](https://www3.cs.stonybrook.edu/~mdasari/papers/nsdi-2022-paper.pdf) [NSDI'22]
 * [SenSei: Aligning Video Streaming Quality with Dynamic User Sensitivity](https://www.usenix.org/system/files/nsdi21-zhang.pdf) [NSDI'21]
 * [Learning in situ: a randomized experiment in video streaming](https://arxiv.org/pdf/1906.01113.pdf) [NSDI'20]
 * [Grad: Learning for Overhead-aware Adaptive Video Streaming with Scalable Video Coding](http://jhc.sjtu.edu.cn/~bjiang/papers/Liu_MM2020_Grad.pdf) [MM'20]
