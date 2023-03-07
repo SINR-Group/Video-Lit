@@ -29,6 +29,10 @@ Literature of video streaming research published in major venues such as SIGCOMM
 * [A Buffer-Based Approach to Rate Adaptation: Evidence from a Large Video Streaming Service](http://yuba.stanford.edu/~nickm/papers/sigcomm2014-video.pdf) [SIGCOMM'14]
 * [Improving Fairness, Efficiency, and Stability in HTTP-based Adaptive Video Streaming with FESTIVE](https://conferences.sigcomm.org/co-next/2012/eproceedings/conext/p97.pdf) [CoNEXT'12]
 
+## Volumetric Video
+* [LESSONS LEARNT DURING ONE YEAR OF COMMERCIAL VOLUMETRIC VIDEO PRODUCTION](https://www.ibc.org/download?ac=10506) [Technical Report]
+* [GROOT: A Real-time Streaming System of High-Fidelity Volumetric Videos]() [MobiCom'20]
+* [ViVo: Visibility-Aware Mobile Volumetric Video Streaming]() [MobiCom'20]
 
 ## Video Telephony
 * [NEMO: Enabling Neural-enhanced Video Streaming on Commodity Mobile Devices]() [MobiCom'20]
@@ -44,8 +48,6 @@ Literature of video streaming research published in major venues such as SIGCOMM
 ## 360 Degree Video
 * [PARIMA: Viewport Adaptive 360-Degree Video Streaming](https://www.researchgate.net/publication/349704480_PARIMA_Viewport_Adaptive_360-Degree_Video_Streaming) [WWW'2021]
 * [PARSEC: Streaming 360-degree Videos using Super-Resolution](https://www3.cs.stonybrook.edu/~mdasari/assets/pdf/infocom20.pdf) [INFOCOM'20] [[Code](https://github.com/VideoForage/Super-Resolution)]
-* [GROOT: A Real-time Streaming System of High-Fidelity Volumetric Videos]() [MobiCom'20]
-* [ViVo: Visibility-Aware Mobile Volumetric Video Streaming]() [MobiCom'20]
 * [Flocking-based Live Streaming of 360-degree Video](https://www.researchgate.net/publication/341703327_Flocking-based_live_streaming_of_360-degree_video) [MMSys'20]
 * [ClusTile: Toward Minimizing Bandwidth in 360-degree Video Streaming](http://www.cs.binghamton.edu/~yaoliu/publications/infocom18-clustile.pdf) [INFOCOM'19]
 * [Pano: Optimizing 360° Video Streaming with a Better Understanding of Quality Perception](https://people.cs.uchicago.edu/~junchenj/docs/360StreamingQuality_SIGCOMM.pdf) [SIGCOMM'19]
