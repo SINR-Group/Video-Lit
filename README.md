@@ -30,6 +30,7 @@ Literature of video streaming research published in major venues such as SIGCOMM
 * [Improving Fairness, Efficiency, and Stability in HTTP-based Adaptive Video Streaming with FESTIVE](https://conferences.sigcomm.org/co-next/2012/eproceedings/conext/p97.pdf) [CoNEXT'12]
 
 ## Volumetric Video
+* [Split Rendering for Mixed Reality: Interactive Volumetric Video in Action](https://www.hhi.fraunhofer.de/fileadmin/PDF/VCA/MC/siggraphxr20.pdf) [SIGGRAPH ASIA'20 XR Demo]
 * [LESSONS LEARNT DURING ONE YEAR OF COMMERCIAL VOLUMETRIC VIDEO PRODUCTION](https://www.ibc.org/download?ac=10506) [Technical Report]
 * [GROOT: A Real-time Streaming System of High-Fidelity Volumetric Videos]() [MobiCom'20]
 * [ViVo: Visibility-Aware Mobile Volumetric Video Streaming]() [MobiCom'20]
