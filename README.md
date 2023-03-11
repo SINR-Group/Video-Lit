@@ -119,8 +119,16 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 * [Furion: Engineering High-Quality Immersive Virtual Reality on Today’s Mobile Devices](http://www.yongcui.org/lunwen/Furion.pdf) [MobiCom'17]
 * [HEVC-compliant Tile-based Streaming of Panoramic Video for Virtual Reality Applications](https://dl.acm.org/citation.cfm?id=2967292) [MM'16]
 
-## Journals
-* [A Survey on Bitrate Adaptation Schemes for Streaming Media over HTTP](https://www.comp.nus.edu.sg/~bentaleb/files/papers/journal/ABRSurvey.pdf) [IEEE Communications Surveys & Tutorials'18]
+## 3D Video in the Early Days
+* [Packetization Interval of Haptic Media in Networked Virtual Environments](https://dl.acm.org/doi/pdf/10.1145/1103599.1103625?casa_token=a0SmS8nytnAAAAAA:MLUUQr4eBc2341SMwJEewfCYQh2L7WfjyG-leD4FxalMfe0QtKGNdnWKKqLHE6OS2gpe9z-NVwv9Fg) [NetGames'05]
+* [OpenPING: A Reflective Middleware for the Construction of Adaptive Networked Game Applications](https://dl.acm.org/doi/pdf/10.1145/1016540.1016548?casa_token=4KZprKt__scAAAAA:9mpnI3Vd-TQ7U-RPdXnQmeKUkkZvvH829Cpjh4OSKJUofnSdAoMMhZE8lnDveiQQvUPQAI_g45g9Bw) [ACM SIGCOMM Workshop'04]
+* [Real-Time Streaming of Point-Based 3D Video](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1310060&casa_token=1jQtTa8i6toAAAAA:gCap-HdAQTNk0sDb1yPmcCJ6_iUvseX5h6Mkhh65QV4fb3utZZwYFNYsAr6ve6ZgcJ-Z3Yfu-Q&tag=1) [IEEE VR'04]
+* [ATM network impairment valuation of an experimental 3D videophone for virtual reality telecommunication system](https://ieeexplore.ieee.org/document/997286) [IEEE ICC'02]
+* [Beyond Audio and Video: Multimedia Networking Support for Distributed, lmmersive Virtual Environments](https://ieeexplore.ieee.org/document/952468) [IEEE EuroMicro'01]
+* [Virtual reality telecommunication system-a person to person multimedia communication system](https://ieeexplore.ieee.org/abstract/document/891853) [IEEE Globecom'00]
+* [The DIVEBONE - An Application-Level Network Architecture for Internet-Based CVEs](https://dl.acm.org/doi/pdf/10.1145/323663.323672) [ACM VRST'99]
+* [DWTP—an Internet protocol for shared virtual environments](https://dl.acm.org/doi/10.1145/271897.274370) [ACM Web3D VRML Workshop'98]
+* [Adaptive _ Distributed Multimedia: A Concept for haracterising Co-cognitive Virtual Reality Systems](http://repository.ias.ac.in/85183/1/47-p.pdf) [IEEE INFOCOM'92]
 
 ## Video Streaming in the Early Days
 * [The Feasibility of Supporting Large-Scale Live Streaming Applications with Dynamic Application End-Points](https://www.conviva.com/wp-content/uploads/2017/09/the-feasability-of-supporting-live-streaming-with-dynamic-application-endpoints.pdf) [SIGCOMM'04]
@@ -131,6 +139,9 @@ Benchmark](https://arxiv.org/pdf/1609.08675.pdf)[arxiv'16]
 * [On buffer requirements for store-and-forward video on demand service circuits](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=188525) [GLOBECOM'1991]
 * [Video On Demand: Is It Feasible?](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=116506) [GLOBECOM'1990]
 * [Video on Demand: A Wideband Service or Myth?](https://www.semanticscholar.org/paper/Video-on-Demand%3A-A-Wideband-Service-or-Myth-Judice-Addeo/ced4fa8baa5dd935aae67a9b352a7b6e637b6c00) [ICC'1986]
+
+## Journals
+* [A Survey on Bitrate Adaptation Schemes for Streaming Media over HTTP](https://www.comp.nus.edu.sg/~bentaleb/files/papers/journal/ABRSurvey.pdf) [IEEE Communications Surveys & Tutorials'18]
 
 # Tools
 Following are the tools and libraries that are useful to build your ideas on top of.
